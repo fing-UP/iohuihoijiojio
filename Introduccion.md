@@ -115,20 +115,4 @@ En caso de error:
    <img src="fotos/26.PNG" style="width:600px;" >
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```python
-
-```
+- [II.	DDL: Data Definition Language](https://fing-up.github.io/Ingenieria-de-datos/sql/DDL.html)
