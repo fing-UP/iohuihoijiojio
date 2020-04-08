@@ -113,22 +113,14 @@ En caso de error:
 •	Nos dirigimos a nuestra base de datos, en este caso es “ComerciosUP”. Desplegamos la carpeta “Diagramas de base de datos”. Encontraremos nuestro diagrama con el nombre que escogimos en el punto anterior. Ahora, desplegamos la carpeta “Tablas” y verificamos que se hayan creado las tablas del diagrama.
 
    <img src="fotos/26.PNG" style="width:600px;" >
+## Contenido:
 
- 
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DDL.html">II.	DDL: Data Definition Language</a>
 
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DML.html">III.	DML: Data Manipulation Language</a>
 
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CD.html">IV.	Consultas Condicionales</a>
 
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CB.html">V.	Consultas Básicas</a>
 
-
-
-
-
-
-
-
-
-
-
-```python
-
-```
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
