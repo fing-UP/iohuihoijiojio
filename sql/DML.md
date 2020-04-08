@@ -129,12 +129,7 @@ select * from cliente
 
 ## Contenido:
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Introduccion.html/">I.	Introducción a SQL</a>
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Introduccion.html">I.	Introducción a SQL</a>
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DDL.html/">II.	DDL: Data Definition Language</a>
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/DDL.html">II.	DDL: Data Definition Language</a>
 
-
-
-```python
-
-```
