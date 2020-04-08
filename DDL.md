@@ -79,12 +79,4 @@ Añadiremos esta sentencia para agregar el atributo “edición” fuera de las 
 
   <img src="fotos/41.PNG" style="width:600px;" >
  
-
- 
-
-
-
-
-```python
-
-```
+- [I.	Introducción a SQL](https://fing-up.github.io/Ingenieria-de-datos/sql/Introduccion.html)
